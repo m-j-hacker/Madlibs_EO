@@ -1,0 +1,20 @@
+{
+  "name": "Madlibs_EO",
+  "version": "1.0.0",
+  "description": "A simple madlibs project in Esperanto | Simpla vortluda projekto en Esperanto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-j-hacker/Madlibs_EO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-j-hacker/Madlibs_EO/issues"
+  },
+  "homepage": "https://github.com/m-j-hacker/Madlibs_EO#readme"
+}
