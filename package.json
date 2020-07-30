@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/m-j-hacker/Madlibs_EO/issues"
   },
-  "homepage": "https://github.com/m-j-hacker/Madlibs_EO#readme"
+  "homepage": "https://github.com/m-j-hacker/Madlibs_EO#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
 }
